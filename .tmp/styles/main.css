@@ -1,4 +1,9 @@
 /* Import the necessary components here */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0; }
+
 html {
   height: 100%; }
 
